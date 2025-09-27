@@ -5,11 +5,9 @@ services:
     plan: free
     buildCommand: npm ci && npm run build
     startCommand: npm run start
-    healthCheckPath: /
+    healthCheckPath: /health
     envVars:
       - key: NODE_VERSION
         value: 18
-      - key: HOST
-        value: 0.0.0.0
-      - key: PORT
-        value: 10000
+      - key: NODE_ENV
+        value: production
