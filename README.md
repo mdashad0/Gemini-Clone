@@ -14,7 +14,7 @@ A modern, responsive web application that replicates the Google Gemini AI chat i
 
 ## 🚀 Demo
 
-![Gemini Clone Interface](https://via.placeholder.com/800x400/4b90ff/ffffff?text=Gemini+Clone+Interface)
+![Gemini Clone Interface](https://gemini-clone-11.onrender.com)
 
 ## 🛠️ Technologies Used
 
