@@ -9,7 +9,7 @@ export default defineConfig({
     port: process.env.PORT || 3000,
     strictPort: false,
     allowedHosts: [
-      'gemini-clone-4-o87.onrender.com' // 👈 Add your Render domain here
+      'gemini-clone-6-o87.onrender.com' // 👈 Add your Render domain here
     ]
   },
   preview: {
@@ -17,7 +17,7 @@ export default defineConfig({
     port: process.env.PORT || 3000,
     strictPort: false,
     allowedHosts: [
-      'gemini-clone-4-o87.onrender.com'
+      'gemini-clone-6-o87.onrender.com'
     ]
   },
   build: {
