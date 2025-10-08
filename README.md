@@ -6,7 +6,7 @@ A modern, responsive web application that replicates the Google Gemini AI chat i
 
 - **Interactive Chat Interface**: Clean and intuitive UI similar to Google Gemini
 - **Real-time AI Responses**: Powered by Google's Generative AI API
-- **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices
+- **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices,
 - **Chat History**: Maintains conversation history with recent prompts
 - **Collapsible Sidebar**: Toggle sidebar for better screen utilization
 - **Typing Animation**: Smooth text animation for AI responses
