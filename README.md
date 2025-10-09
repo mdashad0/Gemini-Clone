@@ -58,7 +58,7 @@ VITE_GOOGLE_AI_API_KEY=your_api_key_here
 
 **Note**: Currently, the API key is stored in the `src/config/gemini.js` file. For production use, move it to environment variables.
 
-### 4. Start the development server
+### 4. Start the development server,
 
 ```bash
 npm run dev
