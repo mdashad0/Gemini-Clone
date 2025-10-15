@@ -26,7 +26,7 @@
 
 //         setResultData("")
 //         setLoading(true)
-//         setShowResult(true)
+//         setShowResult(true),
 //         setRecentPrompt(input)
 //         const response = await runChat(input)
 //         let responseArray = response.split("**");
