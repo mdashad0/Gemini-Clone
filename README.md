@@ -35,7 +35,7 @@ Before running this project, make sure you have the following installed:
 
 ## ⚡ Quick Start
 
-### 1. Clone the repository
+### 1. Clone the repository.
 
 ```bash
 git clone https://github.com/mdashad0/Gemini-Clone.git
