@@ -25,7 +25,7 @@ https://gemini-clone-11.onrender.com
 - **Font**: Google Fonts (Outfit)
 - **Icons**: Custom SVG assets
 
-## 📋 Prerequisites
+## 📋 Prerequisites.
 
 Before running this project, make sure you have the following installed:
 
