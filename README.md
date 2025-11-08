@@ -160,7 +160,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 
-## 👨‍💻 Author
+## 👨‍💻 Author.
 
 **MD Ashad**
 - GitHub: [@mdashad0](https://github.com/mdashad0)
