@@ -16,7 +16,7 @@ A modern, responsive web application that replicates the Google Gemini AI chat i
 
 https://gemini-clone-11.onrender.com
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used.
 
 - **Frontend Framework**: React.js 18
 - **Build Tool**: Vite
