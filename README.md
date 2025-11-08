@@ -112,7 +112,7 @@ const apiKey = "YOUR_API_KEY_HERE";
 - **AI Model**: Change the model in `src/config/gemini.js`
 - **UI Assets**: Replace icons in `src/assets/` folder
 
-## 🎨 UI Components
+## 🎨 UI Components.
 
 ### Main Chat Interface
 - Welcome message with gradient text
