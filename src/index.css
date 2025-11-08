@@ -11,7 +11,7 @@
   min-height: 100vh;
   display: flex;
   animation: fadeIn 1.5s;
-}
+};
 
 @keyframes fadeIn{
   0% {
