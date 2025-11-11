@@ -33,7 +33,7 @@ Before running this project, make sure you have the following installed:
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 - Google Generative AI API key
 
-## ⚡ Quick Start
+## ⚡ Quick Start.
 
 ### 1. Clone the repository.
 
