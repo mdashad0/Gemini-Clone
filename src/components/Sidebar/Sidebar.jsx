@@ -14,8 +14,6 @@ const Sidebar = () => {
       await onSent(prompt)
     };
 
-  
-
   return (
     <div className="sidebar">
       <div className="top">
