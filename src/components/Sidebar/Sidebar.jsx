@@ -56,7 +56,6 @@ const Sidebar = () => {
             {extended?<p>Setting</p>:null}
         </div>
       </div>
-
     </div>
   );
 };
