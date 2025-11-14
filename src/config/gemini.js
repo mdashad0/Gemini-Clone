@@ -1,4 +1,3 @@
-
 import {GoogleGenerativeAI} from '@google/generative-ai';
 
 const apiKey = "AIzaSyChOKyELi8ZDKIP9u_NBlR0hML_neH0i10";
