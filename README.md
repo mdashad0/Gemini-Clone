@@ -12,7 +12,7 @@ A modern, responsive web application that replicates the Google Gemini AI chat i
 - **Typing Animation**: Smooth text animation for AI responses
 - **Modern UI/UX**: Beautiful gradient text effects and hover animations
 
-## 🚀 Demo
+## 🚀 Demo.
 
 https://gemini-clone-11.onrender.com
 
