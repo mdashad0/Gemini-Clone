@@ -39,7 +39,7 @@ const Sidebar = () => {
             
         </div>
         :null
-        }
+        };
         
       </div>
       <div className="bottom">
