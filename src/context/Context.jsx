@@ -1,24 +1,4 @@
 
-
-
-// import { createContext, useState } from "react";
-// import runChat from "../config/gemini";
-// export const Context = createContext();
-
-
-
-// const delayPara = (index,nextWord) => {
-//     setTimeout(function () {
-//         setResultData(prev=>prev+nextWord);
-//     },75*index)
-// }
-
-// const ContextProvider = (props) =>{
-
-//     const[input,setInput] = useState("");
-//     const[recentPrompt,setRecentPrompt] = useState("");
-//     const[prevPrompts,setPrevPrompts] = useState([]);
-//     const[showResult, setShowResult]= useState(false);
 //     const[loading, setLoading] = useState(false);
 //     const[resultData,setResultData]= useState("");
 
