@@ -10,7 +10,7 @@ const Sidebar = () => {
     const loadPrompt = async (prompt) => {
       setRecentPrompt(prompt)
       await onSent(prompt)
-    };
+    };;
 
   return (
     <div className="sidebar">
