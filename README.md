@@ -10,7 +10,7 @@ A modern, responsive web application that replicates the Google Gemini AI chat i
 - **Chat History**: Maintains conversation history with recent prompts
 - **Collapsible Sidebar**: Toggle sidebar for better screen utilization
 - **Typing Animation**: Smooth text animation for AI responses
-- **Modern UI/UX**: Beautiful gradient text effects and hover animations
+- **Modern UI/UX**: Beautiful gradient text effects and hover animations.
 
 ## 🚀 Demo.
 
