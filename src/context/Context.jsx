@@ -74,7 +74,6 @@ const ContextProvider = (props) => {
         setInput,
         newChat
     };
-
     return (
         <Context.Provider value={contextValue}>
             {props.children}
