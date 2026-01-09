@@ -18,7 +18,7 @@ const ContextProvider = (props) => {
             setResultData(prev => prev + nextWord);
         }, 75 * index);
     };
-
+    
     const newChat = () => {
         setLoading(false)
         setShowResult(false)
