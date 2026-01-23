@@ -166,7 +166,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - GitHub: [@mdashad0](https://github.com/mdashad0)
 - LinkedIn: [MD Ashad](https://linkedin.com/in/mdashad0)
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgments.
 
 - Google Generative AI team for the powerful API
 - React.js community for the excellent documentation
