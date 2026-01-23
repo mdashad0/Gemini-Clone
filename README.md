@@ -149,7 +149,7 @@ npm run preview
 npm run lint
 ```
 
-## 🤝 Contributing
+## 🤝 Contributing.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
