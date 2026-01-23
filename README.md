@@ -2,7 +2,7 @@
 
 A modern, responsive web application that replicates the Google Gemini AI chat interface using React.js and the Google Generative AI API.
 
-## 🌟 Features
+## 🌟 Features.
 
 - **Interactive Chat Interface**: Clean and intuitive UI similar to Google Gemini
 - **Real-time AI Responses**: Powered by Google's Generative AI API
