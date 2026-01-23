@@ -172,7 +172,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - React.js community for the excellent documentation
 - Vite team for the lightning-fast build tool
 
-## 📞 Support
+## 📞 Support.
 
 If you have any questions or need help, please open an issue on GitHub.
 
