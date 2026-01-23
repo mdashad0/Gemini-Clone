@@ -1,4 +1,4 @@
-# 🤖 Gemini Clone
+# 🤖 Gemini Clone.
 
 A modern, responsive web application that replicates the Google Gemini AI chat interface using React.js and the Google Generative AI API.
 
